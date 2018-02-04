@@ -1,0 +1,13 @@
+
+#desc-tabs .bg {
+	background-image: url('../images/114663_adapted_landscape_2048x1280.jpg');
+	background-size: auto;
+	-webkit-background-size: auto;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.15;
+}
+#desc-tabs {
+	background: #353b4a;
+}
